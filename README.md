@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Naveen6261
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Naveen6261/Naveen6261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Naveen Kumar
+- 👀 I’m interested in ... Google app script and Logistics solutions
+- 🌱 I’m currently learning ... Git hub - i wanted to create the best ecommerce platform. im currenly working as a team lead in a transport brokerage company with 8 years of logistics experience in handled variuos aspects and end to end logistics solutions. and Logistics digitalizaton projects  
+- 💞️ I’m looking to collaborate on ... Logistics development and implemenation on high end digital transformation in INDIA
+- 📫 How to reach me ... 9738387222 whatsapp /call email @ naveen.vsr@gmail.com // naveenkumar.m@lobb.in alternate contact 7892218457
+- 😄 Pronouns: ... Him/ He
+- ⚡ Fun fact: ... I always look to finish any project at the given day's overnight. fun is that i relate the codes and scenarios whcih i reach or heard as stories.

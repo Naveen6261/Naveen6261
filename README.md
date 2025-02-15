@@ -1,7 +1,42 @@
-- 👋 Hi, I’m @Naveen Kumar
-- 👀 I’m interested in ... Google app script and Logistics solutions
-- 🌱 I’m currently learning ... Git hub - i wanted to create the best ecommerce platform. im currenly working as a team lead in a transport brokerage company with 8 years of logistics experience in handled variuos aspects and end to end logistics solutions. and Logistics digitalizaton projects  
-- 💞️ I’m looking to collaborate on ... Logistics development and implemenation on high end digital transformation in INDIA
-- 📫 How to reach me ... 9738387222 whatsapp /call email @ naveen.vsr@gmail.com // naveenkumar.m@lobb.in alternate contact 7892218457
-- 😄 Pronouns: ... Him/ He
-- ⚡ Fun fact: ... I always look to finish any project at the given day's overnight. fun is that i relate the codes and scenarios whcih i reach or heard as stories.
+# 👋 Hi, I'm Naveen Kumar!  
+
+🚀 **Google Apps Script & Logistics Digitalization Enthusiast**  
+📦 **Logistics Professional | Digital Transformation Expert | Automation Developer**  
+
+## 👀 About Me  
+🔹 Passionate about **Google Apps Script** and **Logistics Solutions**.  
+🔹 Currently working as a **Team Lead in a Transport Brokerage Company** with **8+ years of experience** in end-to-end logistics.  
+🔹 Focused on **Logistics Digitalization Projects** to streamline operations and enhance efficiency.  
+🔹 Aspiring to **build the best eCommerce platform** with smart logistics integration.  
+
+## 🌱 Learning & Development  
+🚀 **Currently Learning:** GitHub, High-End Digital Logistics Transformation  
+💡 **Key Expertise:**  
+- **Google Apps Script & Automation**  
+- **Google Sheets & AppSheet Integrations**  
+- **Email & WhatsApp Automation**  
+- **Logistics & Supply Chain Optimization**  
+- **Power BI for Data Analytics**  
+- **E-commerce Logistics Solutions**  
+
+## 💞️ Collaboration  
+I’m looking to collaborate on **logistics development and high-end digital transformation projects in India**.  
+If you're working on automation, logistics tech, or digital transformation, let's connect!  
+
+## 📂 GitHub Projects  
+🔹 [Logistics Automation with Google Apps Script](#)  
+🔹 [Power BI Logistics Dashboard](#)  
+🔹 [Email & WhatsApp Automation using Google Sheets](#)  
+🔹 [E-commerce Logistics Integration](#)  
+
+*(Replace `#` with actual project links once they are available.)*  
+
+## 📫 Contact Me  
+📱 **WhatsApp/Call:** +91 97383 87222 | **Alternate:** +91 78922 18457  
+📧 **Email:** naveen.vsr@gmail.com | naveenkumar.m@lobb.in  
+🔗 **LinkedIn:** [linkedin.com/in/naveenkumar9738387222](https://linkedin.com/in/naveenkumar9738387222)  
+
+## ⚡ Fun Fact  
+I love completing projects overnight. The fun part? I often relate **coding challenges to real-life stories**—it helps me solve problems in creative ways! 😃  
+
+---  
